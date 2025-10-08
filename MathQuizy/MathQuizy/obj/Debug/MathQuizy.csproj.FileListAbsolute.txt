@@ -1,0 +1,11 @@
+C:\Repositorio\DesarrolloInterfaces\MathQuizy\MathQuizy\bin\Debug\MathQuizy.exe.config
+C:\Repositorio\DesarrolloInterfaces\MathQuizy\MathQuizy\bin\Debug\MathQuizy.exe
+C:\Repositorio\DesarrolloInterfaces\MathQuizy\MathQuizy\bin\Debug\MathQuizy.pdb
+C:\Repositorio\DesarrolloInterfaces\MathQuizy\MathQuizy\obj\Debug\MathQuizy.csproj.AssemblyReference.cache
+C:\Repositorio\DesarrolloInterfaces\MathQuizy\MathQuizy\obj\Debug\MathQuizy.Form1.resources
+C:\Repositorio\DesarrolloInterfaces\MathQuizy\MathQuizy\obj\Debug\MathQuizy.Properties.Resources.resources
+C:\Repositorio\DesarrolloInterfaces\MathQuizy\MathQuizy\obj\Debug\MathQuizy.csproj.GenerateResource.cache
+C:\Repositorio\DesarrolloInterfaces\MathQuizy\MathQuizy\obj\Debug\MathQuizy.csproj.CoreCompileInputs.cache
+C:\Repositorio\DesarrolloInterfaces\MathQuizy\MathQuizy\obj\Debug\MathQuizy.exe
+C:\Repositorio\DesarrolloInterfaces\MathQuizy\MathQuizy\obj\Debug\MathQuizy.pdb
+C:\Repositorio\DesarrolloInterfaces\MathQuizy\MathQuizy\obj\Debug\MathQuizy.exe.config
