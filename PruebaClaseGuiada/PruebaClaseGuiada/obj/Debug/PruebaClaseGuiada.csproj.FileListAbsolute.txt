@@ -1,0 +1,11 @@
+C:\Repositorio\DesarrolloInterfaces\PruebaClaseGuiada\PruebaClaseGuiada\bin\Debug\PruebaClaseGuiada.exe.config
+C:\Repositorio\DesarrolloInterfaces\PruebaClaseGuiada\PruebaClaseGuiada\bin\Debug\PruebaClaseGuiada.exe
+C:\Repositorio\DesarrolloInterfaces\PruebaClaseGuiada\PruebaClaseGuiada\bin\Debug\PruebaClaseGuiada.pdb
+C:\Repositorio\DesarrolloInterfaces\PruebaClaseGuiada\PruebaClaseGuiada\obj\Debug\PruebaClaseGuiada.csproj.AssemblyReference.cache
+C:\Repositorio\DesarrolloInterfaces\PruebaClaseGuiada\PruebaClaseGuiada\obj\Debug\PruebaClaseGuiada.Form1.resources
+C:\Repositorio\DesarrolloInterfaces\PruebaClaseGuiada\PruebaClaseGuiada\obj\Debug\PruebaClaseGuiada.Properties.Resources.resources
+C:\Repositorio\DesarrolloInterfaces\PruebaClaseGuiada\PruebaClaseGuiada\obj\Debug\PruebaClaseGuiada.csproj.GenerateResource.cache
+C:\Repositorio\DesarrolloInterfaces\PruebaClaseGuiada\PruebaClaseGuiada\obj\Debug\PruebaClaseGuiada.csproj.CoreCompileInputs.cache
+C:\Repositorio\DesarrolloInterfaces\PruebaClaseGuiada\PruebaClaseGuiada\obj\Debug\PruebaClaseGuiada.exe
+C:\Repositorio\DesarrolloInterfaces\PruebaClaseGuiada\PruebaClaseGuiada\obj\Debug\PruebaClaseGuiada.pdb
+C:\Repositorio\DesarrolloInterfaces\PruebaClaseGuiada\PruebaClaseGuiada\obj\Debug\PruebaClaseGuiada.UserControl1.resources

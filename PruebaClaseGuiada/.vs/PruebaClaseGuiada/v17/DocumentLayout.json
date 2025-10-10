@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|c:\\repositorio\\desarrollointerfaces\\pruebaclaseguiada\\pruebaclaseguiada\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|solutionrelative:pruebaclaseguiada\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|c:\\repositorio\\desarrollointerfaces\\pruebaclaseguiada\\pruebaclaseguiada\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|solutionrelative:pruebaclaseguiada\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|c:\\repositorio\\desarrollointerfaces\\pruebaclaseguiada\\pruebaclaseguiada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|solutionrelative:pruebaclaseguiada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|c:\\repositorio\\desarrollointerfaces\\pruebaclaseguiada\\pruebaclaseguiada\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|solutionrelative:pruebaclaseguiada\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|c:\\repositorio\\desarrollointerfaces\\pruebaclaseguiada\\pruebaclaseguiada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|solutionrelative:pruebaclaseguiada\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|c:\\repositorio\\desarrollointerfaces\\pruebaclaseguiada\\pruebaclaseguiada\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DEF0C96-7070-48DC-A4D8-69F43A5FA4B4}|PruebaClaseGuiada\\PruebaClaseGuiada.csproj|solutionrelative:pruebaclaseguiada\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserControl1.Designer.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\UserControl1.Designer.cs",
+              "RelativeDocumentMoniker": "PruebaClaseGuiada\\UserControl1.Designer.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\UserControl1.Designer.cs",
+              "RelativeToolTip": "PruebaClaseGuiada\\UserControl1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:54:08.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\UserControl1.cs",
+              "RelativeDocumentMoniker": "PruebaClaseGuiada\\UserControl1.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\UserControl1.cs",
+              "RelativeToolTip": "PruebaClaseGuiada\\UserControl1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:45:26.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\UserControl1.cs",
+              "RelativeDocumentMoniker": "PruebaClaseGuiada\\UserControl1.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\UserControl1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PruebaClaseGuiada\\UserControl1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:40:59.613Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "PruebaClaseGuiada\\Form1.Designer.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\Form1.Designer.cs",
+              "RelativeToolTip": "PruebaClaseGuiada\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:26:29.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\Form1.cs",
+              "RelativeDocumentMoniker": "PruebaClaseGuiada\\Form1.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\Form1.cs",
+              "RelativeToolTip": "PruebaClaseGuiada\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:25:27.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\Form1.cs",
+              "RelativeDocumentMoniker": "PruebaClaseGuiada\\Form1.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\PruebaClaseGuiada\\PruebaClaseGuiada\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PruebaClaseGuiada\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:20:21.806Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

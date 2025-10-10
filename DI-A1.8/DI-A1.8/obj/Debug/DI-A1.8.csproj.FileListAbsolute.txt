@@ -1,0 +1,14 @@
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\bin\Debug\DI-A1.8.exe.config
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\bin\Debug\DI-A1.8.exe
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\bin\Debug\DI-A1.8.pdb
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\obj\Debug\DI-A1.8.csproj.AssemblyReference.cache
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\obj\Debug\DI_A1._8.MenuInicio.resources
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\obj\Debug\DI_A1._8.Properties.Resources.resources
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\obj\Debug\DI-A1.8.csproj.GenerateResource.cache
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\obj\Debug\DI-A1.8.csproj.CoreCompileInputs.cache
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\obj\Debug\DI-A1.8.exe
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\obj\Debug\DI-A1.8.pdb
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\obj\Debug\DI_A1._8.UserControl1.resources
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\obj\Debug\DI-A1.8.exe.config
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\obj\Debug\DI_A1._8.FormCarta.resources
+C:\Repositorio\DesarrolloInterfaces\DI-A1.8\DI-A1.8\obj\Debug\DI_A1._8.FormPedidos.resources
