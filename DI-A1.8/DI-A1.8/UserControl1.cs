@@ -16,5 +16,29 @@ namespace DI_A1._8
         {
             InitializeComponent();
         }
+
+        private void UserControl1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        // esto es para poder editar el texto de un label del componente reutilizable en otros forms
+        private String nombreProducto;
+        public String NombreProducto
+        {
+            get { return nombreProducto; }
+            set
+            {
+                nombreProducto = value;
+                //nombre del label que queramos editar luego
+                label1.Text = nombreProducto;
+            }
+        }
+
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }

@@ -60,5 +60,15 @@ namespace DI_A1._8
         {
 
         }
+
+        private void lblSaludo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void userControl11_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

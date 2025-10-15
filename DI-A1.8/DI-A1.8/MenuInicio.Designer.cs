@@ -35,30 +35,33 @@
             this.menuCartaPedidos = new System.Windows.Forms.MenuStrip();
             this.cartaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pedidosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.lblSaludo = new System.Windows.Forms.Label();
+            this.lblEleccion = new System.Windows.Forms.Label();
             this.userControl11 = new DI_A1._8.UserControl1();
-            this.label1 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.menuCartaPedidos.SuspendLayout();
             this.SuspendLayout();
             // 
             // btnCarta
             // 
-            this.btnCarta.Location = new System.Drawing.Point(199, 344);
+            this.btnCarta.BackColor = System.Drawing.Color.LightSteelBlue;
+            this.btnCarta.Location = new System.Drawing.Point(134, 234);
             this.btnCarta.Name = "btnCarta";
-            this.btnCarta.Size = new System.Drawing.Size(118, 57);
+            this.btnCarta.Size = new System.Drawing.Size(214, 57);
             this.btnCarta.TabIndex = 0;
-            this.btnCarta.Text = "Carta";
-            this.btnCarta.UseVisualStyleBackColor = true;
+            this.btnCarta.Text = "Ver Carta";
+            this.btnCarta.UseVisualStyleBackColor = false;
             this.btnCarta.Click += new System.EventHandler(this.btnCarta_Click);
             // 
             // btnPedidos
             // 
-            this.btnPedidos.Location = new System.Drawing.Point(486, 344);
+            this.btnPedidos.BackColor = System.Drawing.Color.LightSteelBlue;
+            this.btnPedidos.Location = new System.Drawing.Point(491, 234);
             this.btnPedidos.Name = "btnPedidos";
-            this.btnPedidos.Size = new System.Drawing.Size(95, 57);
+            this.btnPedidos.Size = new System.Drawing.Size(214, 57);
             this.btnPedidos.TabIndex = 1;
-            this.btnPedidos.Text = "Pedidos";
-            this.btnPedidos.UseVisualStyleBackColor = true;
+            this.btnPedidos.Text = "Ver Pedidos";
+            this.btnPedidos.UseVisualStyleBackColor = false;
             this.btnPedidos.Click += new System.EventHandler(this.btnPedidos_Click);
             // 
             // panel1
@@ -75,7 +78,7 @@
             // 
             this.lblTitulo.AutoSize = true;
             this.lblTitulo.Font = new System.Drawing.Font("Rockwell", 27.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTitulo.Location = new System.Drawing.Point(209, 38);
+            this.lblTitulo.Location = new System.Drawing.Point(205, 41);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(444, 46);
             this.lblTitulo.TabIndex = 0;
@@ -108,31 +111,46 @@
             this.pedidosToolStripMenuItem.Text = "Pedidos";
             this.pedidosToolStripMenuItem.Click += new System.EventHandler(this.pedidosToolStripMenuItem_Click);
             // 
+            // lblSaludo
+            // 
+            this.lblSaludo.AutoSize = true;
+            this.lblSaludo.Font = new System.Drawing.Font("Perpetua", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSaludo.Location = new System.Drawing.Point(206, 124);
+            this.lblSaludo.Name = "lblSaludo";
+            this.lblSaludo.Size = new System.Drawing.Size(442, 31);
+            this.lblSaludo.TabIndex = 4;
+            this.lblSaludo.Text = "¡¡Bienvenido a nuestra tienda digital!!";
+            this.lblSaludo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblSaludo.Click += new System.EventHandler(this.lblSaludo_Click);
+            // 
+            // lblEleccion
+            // 
+            this.lblEleccion.AutoSize = true;
+            this.lblEleccion.Font = new System.Drawing.Font("Perpetua", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblEleccion.Location = new System.Drawing.Point(259, 170);
+            this.lblEleccion.Name = "lblEleccion";
+            this.lblEleccion.Size = new System.Drawing.Size(352, 22);
+            this.lblEleccion.TabIndex = 5;
+            this.lblEleccion.Text = "Elige una opcion del menu para comenzar\r\n";
+            // 
             // userControl11
             // 
-            this.userControl11.BackColor = System.Drawing.Color.LightSlateGray;
-            this.userControl11.Location = new System.Drawing.Point(148, 108);
+            this.userControl11.AutoSize = true;
+            this.userControl11.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.userControl11.Location = new System.Drawing.Point(321, 329);
             this.userControl11.Name = "userControl11";
-            this.userControl11.Size = new System.Drawing.Size(531, 196);
+            this.userControl11.NombreProducto = "Este es el cafe del dia";
+            this.userControl11.Size = new System.Drawing.Size(183, 84);
             this.userControl11.TabIndex = 3;
-            this.userControl11.Load += new System.EventHandler(this.userControl11_Load);
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Segoe UI Variable Display", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(163, 136);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(505, 26);
-            this.label1.TabIndex = 4;
-            this.label1.Text = "👋👋 ¡¡Bienvenido a la pagina de nuestra tienda!! 👋👋";
+            this.userControl11.Load += new System.EventHandler(this.userControl11_Load_1);
             // 
             // MenuInicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblEleccion);
+            this.Controls.Add(this.lblSaludo);
             this.Controls.Add(this.userControl11);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnPedidos);
@@ -160,7 +178,8 @@
         private System.Windows.Forms.ToolStripMenuItem cartaToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem pedidosToolStripMenuItem;
         private UserControl1 userControl11;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label lblSaludo;
+        private System.Windows.Forms.Label lblEleccion;
     }
 }
 
