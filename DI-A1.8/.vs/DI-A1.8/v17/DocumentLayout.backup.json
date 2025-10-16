@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -71,6 +71,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T09:13:07.793Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormCarta.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\DI-A1.8\\FormCarta.cs",
+              "RelativeDocumentMoniker": "DI-A1.8\\FormCarta.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\DI-A1.8\\FormCarta.cs",
+              "RelativeToolTip": "DI-A1.8\\FormCarta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T10:46:13.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -120,19 +133,6 @@
               "ViewState": "AgIAADYAAAAAAAAAAAAswEsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T10:45:03.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormCarta.cs",
-              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\DI-A1.8\\FormCarta.cs",
-              "RelativeDocumentMoniker": "DI-A1.8\\FormCarta.cs",
-              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\DI-A1.8\\FormCarta.cs",
-              "RelativeToolTip": "DI-A1.8\\FormCarta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T10:46:13.438Z",
               "EditorCaption": ""
             },
             {
