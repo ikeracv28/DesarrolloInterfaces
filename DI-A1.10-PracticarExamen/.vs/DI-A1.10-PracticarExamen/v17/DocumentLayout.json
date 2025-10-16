@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\di-a1.10-practicarexamen\\formponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|solutionrelative:di-a1.10-practicarexamen\\formponentes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.10-practicarexamen\\di-a1.10-practicarexamen\\formagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|solutionrelative:di-a1.10-practicarexamen\\formagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\di-a1.10-practicarexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|solutionrelative:di-a1.10-practicarexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\di-a1.10-practicarexamen\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|solutionrelative:di-a1.10-practicarexamen\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\di-a1.10-practicarexamen\\formagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|solutionrelative:di-a1.10-practicarexamen\\formagenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\di-a1.10-practicarexamen\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|solutionrelative:di-a1.10-practicarexamen\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.10-practicarexamen\\di-a1.10-practicarexamen\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|solutionrelative:di-a1.10-practicarexamen\\formregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.10-practicarexamen\\di-a1.10-practicarexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEC698A-B9BE-4494-927E-279832C93859}|DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen.csproj|solutionrelative:di-a1.10-practicarexamen\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAgenda.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\FormAgenda.cs",
+              "RelativeDocumentMoniker": "DI-A1.10-PracticarExamen\\FormAgenda.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\FormAgenda.cs",
+              "RelativeToolTip": "DI-A1.10-PracticarExamen\\FormAgenda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:57:43.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\Form1.cs",
+              "RelativeDocumentMoniker": "DI-A1.10-PracticarExamen\\Form1.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.10-PracticarExamen\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:14:25.554Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserControl1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\UserControl1.cs",
+              "RelativeDocumentMoniker": "DI-A1.10-PracticarExamen\\UserControl1.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\UserControl1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.10-PracticarExamen\\UserControl1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:46:59.481Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAgenda.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\FormAgenda.cs",
+              "RelativeDocumentMoniker": "DI-A1.10-PracticarExamen\\FormAgenda.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\FormAgenda.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.10-PracticarExamen\\FormAgenda.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:55:18.75Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormRegistro.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\FormRegistro.cs",
+              "RelativeDocumentMoniker": "DI-A1.10-PracticarExamen\\FormRegistro.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\FormRegistro.cs",
+              "RelativeToolTip": "DI-A1.10-PracticarExamen\\FormRegistro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:55:46.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormRegistro.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\FormRegistro.cs",
+              "RelativeDocumentMoniker": "DI-A1.10-PracticarExamen\\FormRegistro.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\FormRegistro.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.10-PracticarExamen\\FormRegistro.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:34:38.513Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPonentes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\FormPonentes.cs",
+              "RelativeDocumentMoniker": "DI-A1.10-PracticarExamen\\FormPonentes.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\FormPonentes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "DI-A1.10-PracticarExamen\\FormPonentes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:21:19.313Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\Form1.cs",
+              "RelativeDocumentMoniker": "DI-A1.10-PracticarExamen\\Form1.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.10-PracticarExamen\\DI-A1.10-PracticarExamen\\Form1.cs",
+              "RelativeToolTip": "DI-A1.10-PracticarExamen\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T16:17:56.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
