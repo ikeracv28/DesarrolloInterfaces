@@ -34,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormPrincipal.cs",
-              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\DI-A1.9\\FormPrincipal.cs",
-              "RelativeDocumentMoniker": "DI-A1.9\\FormPrincipal.cs",
-              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\DI-A1.9\\FormPrincipal.cs",
-              "RelativeToolTip": "DI-A1.9\\FormPrincipal.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswBgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T08:58:50.949Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -85,6 +72,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-10T08:37:34.917Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\DI-A1.9\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "DI-A1.9\\FormPrincipal.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\DI-A1.9\\FormPrincipal.cs",
+              "RelativeToolTip": "DI-A1.9\\FormPrincipal.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:58:50.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

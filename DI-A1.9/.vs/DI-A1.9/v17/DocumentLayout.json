@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\datosusuariocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.9\\di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.9\\di-a1.9\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\di-a1.9\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.9\\di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\formsecundario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.9\\di-a1.9\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\di-a1.9\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.9\\di-a1.9\\datosusuariocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\di-a1.9\\datosusuariocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4985D46E-7BB9-4A43-8DCA-A6D573E720E0}|DI-A1.9\\DI-A1.9.csproj|solutionrelative:di-a1.9\\datosusuariocontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FormSecundario.cs",
-              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\DI-A1.9\\FormSecundario.cs",
-              "RelativeDocumentMoniker": "DI-A1.9\\FormSecundario.cs",
-              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\DI-A1.9\\FormSecundario.cs",
-              "RelativeToolTip": "DI-A1.9\\FormSecundario.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T08:57:06.231Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -58,8 +45,7 @@
               "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\DI-A1.9\\FormSecundario.cs [Dise\u00F1o]",
               "RelativeToolTip": "DI-A1.9\\FormSecundario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T08:50:15.592Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-10T08:50:15.592Z"
             },
             {
               "$type": "Document",
@@ -75,6 +61,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSecundario.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\DI-A1.9\\FormSecundario.cs",
+              "RelativeDocumentMoniker": "DI-A1.9\\FormSecundario.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\DI-A1.9\\FormSecundario.cs",
+              "RelativeToolTip": "DI-A1.9\\FormSecundario.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T08:57:06.231Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FormPrincipal.cs",
               "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\DI-A1.9\\FormPrincipal.cs",
@@ -83,8 +81,7 @@
               "RelativeToolTip": "DI-A1.9\\FormPrincipal.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAswBgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T08:58:50.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T08:58:50.949Z"
             },
             {
               "$type": "Document",
@@ -95,8 +92,7 @@
               "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.9\\DI-A1.9\\FormPrincipal.cs [Dise\u00F1o]",
               "RelativeToolTip": "DI-A1.9\\FormPrincipal.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T08:34:00.212Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-10T08:34:00.212Z"
             },
             {
               "$type": "Document",
@@ -108,8 +104,7 @@
               "RelativeToolTip": "DI-A1.9\\DatosUsuarioControl.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T08:53:01.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T08:53:01.959Z"
             }
           ]
         }

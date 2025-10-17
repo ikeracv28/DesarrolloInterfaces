@@ -166,7 +166,7 @@
             // 
             comboBox1.FormattingEnabled = true;
             comboBox1.Items.AddRange(new object[] { "IA", "Conferencia de apertura" });
-            comboBox1.Location = new Point(96, 226);
+            comboBox1.Location = new Point(96, 215);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(160, 23);
             comboBox1.TabIndex = 10;

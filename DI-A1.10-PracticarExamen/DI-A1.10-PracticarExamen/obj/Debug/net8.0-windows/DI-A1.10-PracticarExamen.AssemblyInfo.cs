@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DI-A1.10-PracticarExamen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bc286256afdad8bd2b0cc263332f37f2649acca")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83e34cf704731000b02377e3d01d3aed4165edf1")]
 [assembly: System.Reflection.AssemblyProductAttribute("DI-A1.10-PracticarExamen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DI-A1.10-PracticarExamen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

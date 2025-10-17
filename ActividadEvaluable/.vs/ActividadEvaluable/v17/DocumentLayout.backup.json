@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|c:\\repositorio\\desarrollointerfaces\\actividadevaluable\\actividadevaluable\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|solutionrelative:actividadevaluable\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|c:\\repositorio\\desarrollointerfaces\\actividadevaluable\\actividadevaluable\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|solutionrelative:actividadevaluable\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|c:\\repositorio\\desarrollointerfaces\\actividadevaluable\\actividadevaluable\\formreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|solutionrelative:actividadevaluable\\formreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|c:\\repositorio\\desarrollointerfaces\\actividadevaluable\\actividadevaluable\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|solutionrelative:actividadevaluable\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|c:\\repositorio\\desarrollointerfaces\\actividadevaluable\\actividadevaluable\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|solutionrelative:actividadevaluable\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|c:\\repositorio\\desarrollointerfaces\\actividadevaluable\\actividadevaluable\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|solutionrelative:actividadevaluable\\formdestinos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|c:\\repositorio\\desarrollointerfaces\\actividadevaluable\\actividadevaluable\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|solutionrelative:actividadevaluable\\formofertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|c:\\repositorio\\desarrollointerfaces\\actividadevaluable\\actividadevaluable\\formreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|solutionrelative:actividadevaluable\\formreserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|c:\\repositorio\\desarrollointerfaces\\actividadevaluable\\actividadevaluable\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|solutionrelative:actividadevaluable\\ventanaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|c:\\repositorio\\desarrollointerfaces\\actividadevaluable\\actividadevaluable\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38DC302B-D040-4006-A15C-C87B45FD325E}|ActividadEvaluable\\ActividadEvaluable.csproj|solutionrelative:actividadevaluable\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentanaPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "ActividadEvaluable\\VentanaPrincipal.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\VentanaPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadEvaluable\\VentanaPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:20:05.599Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDestinos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormDestinos.cs",
+              "RelativeDocumentMoniker": "ActividadEvaluable\\FormDestinos.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormDestinos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadEvaluable\\FormDestinos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:30:33.072Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormDestinos.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormDestinos.cs",
+              "RelativeDocumentMoniker": "ActividadEvaluable\\FormDestinos.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormDestinos.cs",
+              "RelativeToolTip": "ActividadEvaluable\\FormDestinos.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:36:27.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormReserva.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormReserva.cs",
+              "RelativeDocumentMoniker": "ActividadEvaluable\\FormReserva.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormReserva.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadEvaluable\\FormReserva.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:56:59.264Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormOfertas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormOfertas.cs",
+              "RelativeDocumentMoniker": "ActividadEvaluable\\FormOfertas.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormOfertas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadEvaluable\\FormOfertas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:44:17.445Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\UserControl1.cs",
+              "RelativeDocumentMoniker": "ActividadEvaluable\\UserControl1.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\UserControl1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadEvaluable\\UserControl1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:25:15.415Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormOfertas.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormOfertas.cs",
+              "RelativeDocumentMoniker": "ActividadEvaluable\\FormOfertas.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormOfertas.cs",
+              "RelativeToolTip": "ActividadEvaluable\\FormOfertas.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAywDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:54:38.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormReserva.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormReserva.cs",
+              "RelativeDocumentMoniker": "ActividadEvaluable\\FormReserva.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\FormReserva.cs",
+              "RelativeToolTip": "ActividadEvaluable\\FormReserva.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAswB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T08:19:49.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VentanaPrincipal.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\VentanaPrincipal.cs",
+              "RelativeDocumentMoniker": "ActividadEvaluable\\VentanaPrincipal.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\VentanaPrincipal.cs",
+              "RelativeToolTip": "ActividadEvaluable\\VentanaPrincipal.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:29:53.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\UserControl1.cs",
+              "RelativeDocumentMoniker": "ActividadEvaluable\\UserControl1.cs",
+              "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\ActividadEvaluable\\ActividadEvaluable\\UserControl1.cs",
+              "RelativeToolTip": "ActividadEvaluable\\UserControl1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBUAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T07:40:12.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\bin\Debug\ActividadEvaluable.exe.config
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\bin\Debug\ActividadEvaluable.exe
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\bin\Debug\ActividadEvaluable.pdb
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.csproj.AssemblyReference.cache
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.FormDestinos.resources
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.Properties.Resources.resources
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.UserControl1.resources
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.VentanaPrincipal.resources
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.csproj.GenerateResource.cache
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.csproj.CoreCompileInputs.cache
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.exe
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.pdb
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.FormOfertas.resources
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.FormReserva.resources
+C:\Repositorio\DesarrolloInterfaces\ActividadEvaluable\ActividadEvaluable\obj\Debug\ActividadEvaluable.exe.config
