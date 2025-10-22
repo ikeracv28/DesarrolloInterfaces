@@ -68,6 +68,15 @@ nav a.active {
   gap: 1.5rem;
   padding: 2rem;
 }
+/* todas las imágenes de la galería tendrán el mismo tamaño */
+.grid-jugadores img {
+  width: 100%;
+  height: 380px;          /* puedes ajustar este valor (ej: 200px o 250px) */
+  border-radius: 12px;
+  object-fit: cover;      /* recorta sin deformar */
+  object-position: center;/* centra la parte visible */
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
 
 .card {
   background: #fafafa;
