@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FutbolPass | Inicio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- header con el título y la navegación -->
+  <header>
+    <h1>⚽ FutbolPass</h1>
+    <nav aria-label="navegación principal">
+      <ul>
+        <li><a href="index.html" class="active">Inicio</a></li>
+        <li><a href="detalles.html">Participa</a></li>
+        <li><a href="galeria.html">Galería</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- sección del buscador y filtro -->
+  <section class="busqueda">
+    <input type="text" placeholder="Buscar jugador...">
+    <select>
+      <option value="">Todos</option>
+      <option value="delantero">Delanteros</option>
+      <option value="centrocampista">Centrocampistas</option>
+      <option value="defensa">Defensas</option>
+      <option value="portero">Porteros</option>
+    </select>
+  </section>
+
+  <!-- contenido principal con la lista de jugadores -->
+  <main class="grid-jugadores">
+    <article class="card">
+      <img src="./fotos/messi-world-cup.jpg" alt="Foto de Lionel Messi">
+      <h2>Lionel Messi</h2>
+      <p>Delantero | Inter Miami</p>
+      <p>🇦🇷 Argentina</p>
+      <a href="detalles.html" class="btn">Ver detalles</a>
+    </article>
+
+    <article class="card">
+      <img src="./fotos/Haaland.jpg" alt="Foto de Erling Haaland">
+      <h2>Erling Haaland</h2>
+      <p>Delantero | Manchester City</p>
+      <p>🇳🇴 Noruega</p>
+      <a href="detalles.html" class="btn">Ver detalles</a>
+    </article>
+
+    <article class="card">
+      <img src="./fotos/Vinicius.webp" alt="Foto de Vinicius Jr">
+      <h2>Vinicius Jr</h2>
+      <p>Extremo | Real Madrid</p>
+      <p>🇧🇷 Brasil</p>
+      <a href="detalles.html" class="btn">Ver detalles</a>
+    </article>
+  </main>
+
+  <!-- pie de página -->
+  <footer>
+    <p>© 2025 FutbolPass - Pasión por el fútbol</p>
+  </footer>
+
+</body>
+</html>

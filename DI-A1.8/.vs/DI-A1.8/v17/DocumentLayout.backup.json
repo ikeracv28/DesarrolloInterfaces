@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|solutionrelative:di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|solutionrelative:di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\di-a1.8\\formpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|solutionrelative:di-a1.8\\formpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\di-a1.8\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|solutionrelative:di-a1.8\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.8\\di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|solutionrelative:di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\di-a1.8\\formpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|solutionrelative:di-a1.8\\formpedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.8\\di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|solutionrelative:di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\di-a1.8\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "FormCarta.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\DI-A1.8\\FormCarta.cs",
               "RelativeDocumentMoniker": "DI-A1.8\\FormCarta.cs",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MenuInicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\DI-A1.8\\MenuInicio.cs",
               "RelativeDocumentMoniker": "DI-A1.8\\MenuInicio.cs",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "FormCarta.cs",
               "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\DI-A1.8\\FormCarta.cs",
               "RelativeDocumentMoniker": "DI-A1.8\\FormCarta.cs",
@@ -87,7 +87,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FormPedidos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\DI-A1.8\\FormPedidos.cs",
               "RelativeDocumentMoniker": "DI-A1.8\\FormPedidos.cs",
@@ -119,8 +119,7 @@
               "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\DI-A1.8\\UserControl1.cs [Dise\u00F1o]",
               "RelativeToolTip": "DI-A1.8\\UserControl1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T10:22:43.11Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-10T10:22:43.11Z"
             },
             {
               "$type": "Document",
@@ -145,8 +144,7 @@
               "RelativeToolTip": "DI-A1.8\\UserControl1.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T07:09:25.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T07:09:25.544Z"
             },
             {
               "$type": "Document",

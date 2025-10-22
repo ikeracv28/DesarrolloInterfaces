@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.8\\di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|solutionrelative:di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|solutionrelative:di-a1.8\\menuinicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|c:\\repositorio\\desarrollointerfaces\\di-a1.8\\di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{07193174-3166-4EC7-92D0-E3E30423B536}|DI-A1.8\\DI-A1.8.csproj|solutionrelative:di-a1.8\\formcarta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -69,8 +69,7 @@
               "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\DI-A1.8\\MenuInicio.cs [Dise\u00F1o]",
               "RelativeToolTip": "DI-A1.8\\MenuInicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T09:13:07.793Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-10T09:13:07.793Z"
             },
             {
               "$type": "Document",
@@ -94,8 +93,7 @@
               "ToolTip": "C:\\Repositorio\\DesarrolloInterfaces\\DI-A1.8\\DI-A1.8\\FormPedidos.cs [Dise\u00F1o]",
               "RelativeToolTip": "DI-A1.8\\FormPedidos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T10:20:15.935Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-10T10:20:15.935Z"
             },
             {
               "$type": "Document",
@@ -107,8 +105,7 @@
               "RelativeToolTip": "DI-A1.8\\MenuInicio.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAuwB8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T09:14:27.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T09:14:27.505Z"
             },
             {
               "$type": "Document",
@@ -131,8 +128,7 @@
               "RelativeToolTip": "DI-A1.8\\FormPedidos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T10:45:03.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T10:45:03.149Z"
             },
             {
               "$type": "Document",
@@ -156,8 +152,7 @@
               "RelativeToolTip": "DI-A1.8\\MenuInicio.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T10:18:01.483Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-10T10:18:01.483Z"
             }
           ]
         }
