@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./photo-1550239757-cd424eaf8229.avif" type="image/x-icon">
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -20,13 +21,13 @@
 
             <div class="inputs nombre">
                 <label for="nombre">Nombre: </label>
-                <input type="text" name="nombre" id="nombre">
+                <input type="text" name="nombre" id="nombre" required>
             </div>
 
 
             <div class="inputs apellidos">
                 <label for="nombre">Apellidos: </label>
-                <input type="text" name="apellidos" id="apellidos">
+                <input type="text" name="apellidos" id="apellidos" required>
             </div>
 
 
@@ -37,7 +38,7 @@
 
             <div class="inputs opcion">
                 <label for="radioDni">DNI: </label>
-                <input type="radio" value="dni" name="documento" id="radioDni">
+                <input type="radio" value="dni" name="documento" id="radioDni" checked="checked">
                 <label for="radioNie">NIE: </label>
                 <input type="radio" value="nie" name="documento" id="radioNie">
             </div>
@@ -51,12 +52,6 @@
                 <label for="nombre">NIE: </label>
                 <input type="text" name="nie" id="nie">
             </div> -->
-
-
-            <div class="inputs politica">
-                <label for="check">Politica: </label>
-                <input type="checkbox" value="1" name="politica" id="politica">
-            </div>
 
             <div class="dniNie">
 
@@ -73,10 +68,14 @@
 
             </div>
 
-
+            <div class="inputs politica">
+                <label for="check">Politica: </label>
+                <input type="checkbox" value="1" name="politica" id="politica" required>
+            </div>
 
         </div>
 
+        <button type="submit">Guardar Datos</button>
 
     </form>
 

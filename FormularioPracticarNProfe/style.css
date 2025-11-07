@@ -1,5 +1,11 @@
 html {
     background: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+
 }
 
 .miFormulario {
@@ -27,22 +33,30 @@ html {
 }
 
 .nombre {
+    display: grid;
     grid-area: nombre;
 }
 
 .dniNie {
+    display: grid;
     grid-area: dniNie;
 }
 
 .apellidos {
+    display: grid;
+
     grid-area: apellidos;
 }
 
 .opcion {
+    display: grid;
+
     grid-area: opcion;
 }
 
 .edad {
+    display: grid;
+
     grid-area: edad;
 }
 
@@ -55,6 +69,8 @@ html {
 } */
 
 .politica {
+    display: grid;
+
     grid-area: politica;
 }
 
