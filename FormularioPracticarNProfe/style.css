@@ -1,0 +1,91 @@
+html {
+    background: #333;
+}
+
+.miFormulario {
+    border: solid 1px red;
+    padding: 10px;
+
+}
+
+.contenedorInputs {
+    border: solid 1px blue;
+    padding: 10px;
+    display: grid;
+    color: yellow;
+    /*Columnas que van a haber*/
+    grid-template-columns: 1fr 1fr;
+    /*Filas que van a haber*/
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    /*Con esto organizas lo que quieres que haya en cada columna y fila*/
+    grid-template-areas: "nombre apellidos"
+        "edad edad"
+        "opcion opcion"
+        "dniNie dniNie"
+        "politica politica";
+
+}
+
+.nombre {
+    grid-area: nombre;
+}
+
+.dniNie {
+    grid-area: dniNie;
+}
+
+.apellidos {
+    grid-area: apellidos;
+}
+
+.opcion {
+    grid-area: opcion;
+}
+
+.edad {
+    grid-area: edad;
+}
+
+/* .dni {
+    grid-area: dni;
+}
+
+.nie {
+    grid-area: nie;
+} */
+
+.politica {
+    grid-area: politica;
+}
+
+
+
+.inputs {
+    border: solid 1px yellow;
+    padding: 10px;
+    display: flex;
+    /*Esto es para que el nombre se ponga arriba, modo columna*/
+    flex-direction: column;
+}
+
+label {
+    text-align: center;
+}
+
+/*
+.nombre {
+    background: rgb(57, 158, 240)
+}
+
+.apellidos {
+    background: white;
+
+    input {
+        background: yellow;
+    }
+}
+
+.edad {
+    background: rgb(57, 158, 240)
+}
+    */
