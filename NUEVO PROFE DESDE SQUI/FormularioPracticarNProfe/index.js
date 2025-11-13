@@ -27,8 +27,6 @@ radioDni.addEventListener("click", () => {
     contenedorDni.style.display = "grid";
     contenedorNie.style.display = "none";
 
-
-
 })
 
 radioNie.addEventListener("click", () => {
