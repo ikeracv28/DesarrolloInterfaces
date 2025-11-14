@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
+
+    <title>Document</title>
+</head>
+
+<body>
+
+    <!-- Cabecera del formulario -->
+    <header>
+        <H1>FORMULARIO DE REGISTRO</H1>
+    </header>
+
+    <main>
+
+        <!--Formulario de bootstrap-->
+        <form class="form-control" id="formulario">
+
+            <!--Nombre -->
+            <div class="mb-3">
+                <label for="nombre" class="form-label">Nombre:</label>
+                <input type="text" class="form-control" id="nombre" aria-describedby="nombreHelp"
+                    placeholder="Ingrese nombre" required>
+            </div>
+
+            <!-- Apellido -->
+            <div class="mb-3">
+                <label for="apellido" class="form-label">Apellido</label>
+                <input type="text" class="form-control" id="apellido" aria-describedby="apellidoHelp"
+                    placeholder="Ingrese apellido" required>
+            </div>
+
+            <!--Email-->
+            <div class="mb-3">
+                <label for="email" class="form-label">Correo Electronico</label>
+                <input type="email" class="form-control" id="email" aria-describedby="emailHelp"
+                    placeholder="Ingrese email" required>
+            </div>
+
+            <!-- Telefono -->
+            <div class="mb-3">
+                <label for="telefono" class="form-label">Telefono</label>
+                <input type="tel" class="form-control" id="telefono" aria-describedby="telefonoHelp"
+                    placeholder="Ingrese telefono" required>
+            </div>
+
+            <!--Nombre Usuario -->
+            <div class="mb-3">
+                <label for="nombreUsuario" class="form-label">Nombre de Usuario:</label>
+                <input type="text" class="form-control" id="nombreUsuario" aria-describedby="nombreUsuarioHelp"
+                    placeholder="Ingrese nombre de Usuario" required>
+            </div>
+
+
+            <!-- Contraseña -->
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Contraseña</label>
+                <input type="password" class="form-control" id="password1" placeholder="Ingrese contraseña" required>
+            </div>
+
+            <!-- Para que repita la contraseña -->
+            <div class="mb-3">
+                <label for="password2" class="form-label">Repite tu Contraseña</label>
+                <input type="password" class="form-control" id="password2" placeholder="Repita su contraseña" required>
+            </div>
+
+
+            <br>
+            <!-- Select para elegir ciclo formativo -->
+            <div class="mb-3">
+                <select class="form-select" aria-label="Default select example" required>
+                    <option selected>Preferencia de contacto</option>
+                    <option value="1">Email</option>
+                    <option value="2">Telefono</option>
+                    <option value="3">Ambos</option>
+                </select>
+
+            </div>
+
+
+            <!-- Aceptar terminos y condiciones -->
+            <div class="mb-3 form-check">
+                <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                <label class="form-check-label" for="exampleCheck1">Aceptar terminos y condiciones</label required>
+            </div>
+
+            <!-- Boton de enviar -->
+            <button type="submit" class="btn btn-primary" id="boton" disabled>Crear cuenta</button>
+        </form>
+
+    </main>
+
+    <!-- footer del formulario -->
+    <footer>Este es el formulario hecho por Iker Acevedo</footer>
+
+
+
+
+
+
+
+    <script src="index.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>

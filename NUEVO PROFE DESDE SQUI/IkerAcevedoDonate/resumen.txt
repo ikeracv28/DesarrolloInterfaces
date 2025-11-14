@@ -1,0 +1,4 @@
+Es un formulario, que valida que la contraseña la escriba dos veces, en contraseña y repita su contraseña, y que la escriba igual, 
+si no la escribe igual le manda una alerta, y aparte no le deja darle a enviar el formulario, ya que el boton esta desactiado hasta que no sean iguales, 
+aparte los campos los tiene que rellenar obligatoriamente, si no tampoco le deja enviarlo, y una vez manda el formulario con los datos correctamente, se muestran los datos por consola.
+Tiene bottsrap y algun estilo propio aparte.
